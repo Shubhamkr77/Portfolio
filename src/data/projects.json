@@ -1,0 +1,60 @@
+[
+  {
+    "title": "Food Mania:",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a comprehensive online food Ordering website, Food Mania, which enables users to seamlessly browse, order, and manage food items.",
+    "skills": ["React", "Express", "Node", "MongoDB", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77/Food-Mania"
+  },
+ 
+  {
+    "title": "Authentication and Encryption of Data:",
+    "imageSrc": "projects/project.png",
+    "description": " Implemented website which securely verify user identities and protect sensitive information from unauthorized users accessing useful information.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77"
+  },
+    {
+    "title": "Temperature Converter:",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a user-friendly temperature converter Site that allows users to input a temperature in either Fahrenheit or Celsius, convert it, and display the result in the appropriate unit. ",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77/Temperature-Converter"
+  },
+  {
+    "title": "Weather App:",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a weather site that provides next 7-days forecast and displays current weather details including temperature, wind speed, Pressure and more.",
+    "skills": ["React", "Api", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77/Weather-App"
+  },
+  {
+    "title": "Portfolio:",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a responsive and interactive personal portfolio website to showcase my skills, projects, and achievements.",
+    "skills": ["React", "CSS", "Figma", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77/Portfolio"
+  },
+  {
+    "title": "To Do List:",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a dynamic To-Do List application with features that allow users to add, edit, and delete tasks.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77/To-Do-List"
+  },
+  {
+    "title": "Landing Page:",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and developed an engaging and high-converting landing page for a product launch.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Shubhamkr77/Landing-Page"
+  }
+ 
+]
